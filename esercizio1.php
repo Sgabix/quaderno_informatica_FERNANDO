@@ -33,5 +33,6 @@
         }
         ?>
     </table>
+    <a href="Index.html">Home</a>
 </body>
 </html>
